@@ -3,10 +3,12 @@ const chalk = require('chalk')
 
 global.APIs = {
 	danzz: 'https://danzzapi.xyz',
+        zenz: 'https://zenzapis.xyz'
 }
 
 global.APIKeys = {
 	'https://danzzapi.xyz': 'danzz',
+        'https://zenzapis.xyz': 'sonelstore'
 }
 
 // Other
